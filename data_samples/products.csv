@@ -1,0 +1,5 @@
+product_id,product_name,category,price
+10,Laptop,Electronics,1200.50
+11,Mouse,Electronics,25.00
+12,Chair,Furniture,80.00
+13,Table,Furniture,-10.00
